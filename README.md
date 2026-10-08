@@ -102,3 +102,7 @@ La distancia entre puntos se calcula con la fórmula de Haversine (km). El orden
 
 - Los límites del área navegable (`LIMITES_NAVEGABLES` en `nucleo.py`) y las lanchas del catálogo (`BASE` en `hu06_embarcacion.py`) son valores de ejemplo y se ajustan a la jurisdicción y a la flota reales.
 - Los archivos que genera el simulador de escritorio (PDF y texto) se guardan en la carpeta `salidas/`.
+
+## Evidencia de la simulación
+
+https://youtu.be/5uOA8Eg503I
