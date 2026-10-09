@@ -50,7 +50,7 @@ El backlog está priorizado y estimado. Cada historia es un Issue de este reposi
 
 - Criterios de aceptación verificados.
 - Revisión de código aprobada.
-- Documentación necesaria actualizada.
+- Sin defectos críticos conocidos.
 
 ## Simulador
 
